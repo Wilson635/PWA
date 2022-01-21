@@ -1,0 +1,39 @@
+{
+    "name": "What Watch",
+    "short_name": "WW",
+    "start_url": "/index.html",
+    "display": "standalone",  
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icones": {
+        {
+            "src": "/assets/icones/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg",
+            "type": "image/svg"
+        },
+        {
+            "src": "/assets/icones/logo(rectifié).png",
+            "type":"image/png" 
+        },
+        {
+            "src": "/assets/icones/LOGO ISETAG (2).png",
+            "type": "image/png"
+        },
+        {
+            "src": "/asssets/icones/Logo isetag.jpg",
+            "type": "image/jpg"
+        },
+        {
+            "src": "/assets/icones/LOGO ISETAG.png",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icones/logo rond.png",
+            "type": "image/png"
+        }
+
+
+        
+    }
+
+}
